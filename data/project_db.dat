@@ -1,11 +1,5 @@
 map{ id = "test" }
 
-tileset{ id = "Structure", description = "Structure" }
-tileset{ id = "autumn_dark", description = "autumn_dark" }
-tileset{ id = "autumn_dark.old", description = "autumn_dark.old" }
-tileset{ id = "mountain_sea", description = "mountain_sea" }
-tileset{ id = "overworld", description = "overworld" }
-tileset{ id = "overworld_war", description = "overworld_war" }
 tileset{ id = "spring_basic" }
 tileset{ id = "spring_dark", description = "spring_dark" }
 

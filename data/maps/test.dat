@@ -19,92 +19,12 @@ tile{
 
 tile{
   layer = 0,
-  x = 32,
-  y = 80,
-  width = 16,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 88,
-  width = 8,
-  height = 16,
-  pattern = "4_6",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 96,
-  width = 16,
-  height = 8,
-  pattern = "8_6",
-}
-
-tile{
-  layer = 0,
-  x = 136,
-  y = 80,
-  width = 16,
-  height = 8,
-  pattern = "2_6",
-}
-
-tile{
-  layer = 0,
-  x = 128,
-  y = 88,
-  width = 8,
-  height = 16,
-  pattern = "4_6",
-}
-
-tile{
-  layer = 0,
-  x = 136,
-  y = 88,
-  width = 16,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 104,
-  y = 88,
-  width = 8,
-  height = 16,
-  pattern = "6_6",
-}
-
-tile{
-  layer = 0,
-  x = 88,
-  y = 88,
-  width = 16,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 88,
-  y = 80,
-  width = 16,
-  height = 8,
-  pattern = "2_6",
-}
-
-tile{
-  layer = 0,
-  x = 160,
+  x = 16,
   y = 32,
-  width = 8,
-  height = 16,
-  pattern = "6_2",
+  width = 152,
+  height = 72,
+  pattern = "66",
+  tileset = "spring_dark",
 }
 
 tile{
@@ -113,7 +33,7 @@ tile{
   y = 32,
   width = 16,
   height = 16,
-  pattern = "167_3",
+  pattern = "95",
 }
 
 tile{
@@ -122,7 +42,7 @@ tile{
   y = 48,
   width = 96,
   height = 16,
-  pattern = "167_3",
+  pattern = "95",
 }
 
 tile{
@@ -131,7 +51,7 @@ tile{
   y = 64,
   width = 16,
   height = 32,
-  pattern = "167_3",
+  pattern = "95",
 }
 
 tile{
@@ -1695,15 +1615,6 @@ tile{
 
 tile{
   layer = 0,
-  x = 88,
-  y = -40,
-  width = 16,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
   x = 152,
   y = 48,
   width = 16,
@@ -1727,16 +1638,6 @@ tile{
   width = 8,
   height = 16,
   pattern = "10",
-  tileset = "spring_dark",
-}
-
-tile{
-  layer = 0,
-  x = 152,
-  y = 40,
-  width = 8,
-  height = 8,
-  pattern = "12",
   tileset = "spring_dark",
 }
 
@@ -1804,16 +1705,6 @@ tile{
   layer = 0,
   x = 264,
   y = 72,
-  width = 16,
-  height = 8,
-  pattern = "12",
-  tileset = "spring_dark",
-}
-
-tile{
-  layer = 0,
-  x = 16,
-  y = 80,
   width = 16,
   height = 8,
   pattern = "12",
@@ -2092,16 +1983,6 @@ tile{
 
 tile{
   layer = 0,
-  x = 32,
-  y = 96,
-  width = 8,
-  height = 8,
-  pattern = "7",
-  tileset = "spring_dark",
-}
-
-tile{
-  layer = 0,
   x = 24,
   y = 104,
   width = 8,
@@ -2132,11 +2013,142 @@ tile{
 
 tile{
   layer = 0,
+  x = 24,
+  y = 32,
+  width = 8,
+  height = 32,
+  pattern = "65",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "65_2",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "50",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "1_7",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 40,
+  width = 72,
+  height = 8,
+  pattern = "50_2",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 48,
+  width = 8,
+  height = 16,
+  pattern = "65",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "65_2",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "50_2",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "1_7",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "50",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "50",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "65",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "65_2",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
   x = 104,
   y = 80,
   width = 8,
   height = 8,
-  pattern = "3_6",
+  pattern = "64",
+  tileset = "spring_dark",
 }
 
 tile{
@@ -2146,42 +2158,37 @@ tile{
   width = 8,
   height = 8,
   pattern = "1_6",
+  tileset = "spring_dark",
 }
 
 tile{
   layer = 0,
-  x = 48,
+  x = 160,
   y = 32,
-  width = 112,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 128,
-  y = 48,
-  width = 16,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 16,
-  y = 32,
-  width = 16,
-  height = 48,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 32,
-  y = 96,
   width = 8,
   height = 8,
-  pattern = "7_6",
+  pattern = "65",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "50_2",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "65",
+  tileset = "spring_dark",
 }
 
 tile{
@@ -2190,34 +2197,28 @@ tile{
   y = 80,
   width = 16,
   height = 8,
-  pattern = "8_6",
+  pattern = "50_2",
+  tileset = "spring_dark",
 }
 
 tile{
   layer = 0,
   x = 32,
-  y = 64,
-  width = 16,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 160,
-  y = 32,
+  y = 88,
   width = 8,
-  height = 16,
-  pattern = "6_6",
+  height = 8,
+  pattern = "65_2",
+  tileset = "spring_dark",
 }
 
 tile{
   layer = 0,
-  x = 152,
-  y = 40,
-  width = 16,
+  x = 40,
+  y = 96,
+  width = 8,
   height = 8,
-  pattern = "8_6",
+  pattern = "50_2",
+  tileset = "spring_dark",
 }
 
 tile{
@@ -2226,69 +2227,36 @@ tile{
   y = 40,
   width = 8,
   height = 8,
-  pattern = "9_6",
+  pattern = "64_2",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "1_7",
+  tileset = "spring_dark",
 }
 
 tile{
   layer = 0,
   x = 144,
-  y = 48,
-  width = 8,
-  height = 16,
-  pattern = "6_6",
-}
-
-tile{
-  layer = 0,
-  x = 48,
-  y = 32,
-  width = 8,
-  height = 16,
-  pattern = "4_6",
-}
-
-tile{
-  layer = 0,
-  x = 128,
-  y = 48,
-  width = 8,
-  height = 16,
-  pattern = "4_6",
-}
-
-tile{
-  layer = 0,
-  x = 48,
-  y = 40,
-  width = 80,
-  height = 8,
-  pattern = "8_6",
-}
-
-tile{
-  layer = 0,
-  x = 48,
-  y = 40,
+  y = 56,
   width = 8,
   height = 8,
-  pattern = "7_6",
+  pattern = "64_2",
+  tileset = "spring_dark",
 }
 
 tile{
   layer = 0,
-  x = 32,
-  y = 64,
+  x = 112,
+  y = 96,
   width = 16,
-  height = 8,
-  pattern = "2_6",
-}
-
-tile{
-  layer = 0,
-  x = 24,
-  y = 32,
-  width = 8,
-  height = 32,
-  pattern = "6_6",
+  height = 16,
+  pattern = "28",
 }
 
