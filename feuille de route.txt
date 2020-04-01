@@ -1,3 +1,8 @@
+Recreating all tilesets
+Beginning with basic spring
+Adding entities
+
+
 ajout tileset "past"
 
 paramétrage tilesets existants
