@@ -706,42 +706,6 @@ tile{
 
 tile{
   layer = 0,
-  x = 64,
-  y = 80,
-  width = 16,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 160,
-  y = 80,
-  width = 16,
-  height = 16,
-  pattern = "5_6",
-}
-
-tile{
-  layer = 0,
-  x = 64,
-  y = 80,
-  width = 16,
-  height = 16,
-  pattern = "162",
-}
-
-tile{
-  layer = 0,
-  x = 160,
-  y = 80,
-  width = 16,
-  height = 16,
-  pattern = "162",
-}
-
-tile{
-  layer = 0,
   x = 240,
   y = 112,
   width = 16,
@@ -2258,5 +2222,43 @@ tile{
   width = 16,
   height = 16,
   pattern = "28",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "95",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "95",
+  tileset = "spring_dark",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "162",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "162",
 }
 

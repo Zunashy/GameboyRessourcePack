@@ -1,7 +1,11 @@
+map{ id = "Village" }
+map{ id = "aqua" }
+map{ id = "lava" }
 map{ id = "test" }
 
 tileset{ id = "spring_basic" }
 tileset{ id = "spring_dark", description = "spring_dark" }
+tileset{ id = "unique" }
 
 sprite{ id = "animals/bird_red", description = "Red Bird" }
 sprite{ id = "animals/butterfly_blue", description = "Butterfly blue" }
