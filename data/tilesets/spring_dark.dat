@@ -11507,3 +11507,27 @@ border_set{
   pattern_11 = "1",
 }
 
+border_set{
+  id = "plain_2",
+  pattern_0 = "10_2",
+  pattern_1 = "12_2",
+  pattern_2 = "13_2",
+  pattern_3 = "11_2",
+  pattern_8 = "7_2",
+  pattern_9 = "9_2",
+  pattern_10 = "3_2",
+  pattern_11 = "1_2",
+}
+
+border_set{
+  id = "plain_3",
+  pattern_0 = "10_3",
+  pattern_1 = "12_3",
+  pattern_2 = "13_3",
+  pattern_3 = "11_3",
+  pattern_8 = "7_3",
+  pattern_9 = "9_3",
+  pattern_10 = "3_3",
+  pattern_11 = "1_3",
+}
+
